@@ -1,0 +1,449 @@
+{
+  "cases": [
+    {
+      "name": "懒羊羊·奶油午睡",
+      "project": "D:\\REA\\rea project\\Custom Cursor Studio\\examples\\lazy-sheep-v2\\theme.json",
+      "zip": "D:\\REA\\rea project\\Custom Cursor Studio\\examples\\lazy-sheep-v2\\懒羊羊·奶油午睡.zip",
+      "native_results": [
+        {
+          "file": "Arrow.ani",
+          "frames": 4,
+          "hotspots": [
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              2
+            ]
+          ],
+          "native_load": true
+        },
+        {
+          "file": "Help.cur",
+          "frames": 1,
+          "hotspots": [
+            [
+              2,
+              2
+            ]
+          ],
+          "native_load": true
+        },
+        {
+          "file": "AppStarting.ani",
+          "frames": 4,
+          "hotspots": [
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              2
+            ]
+          ],
+          "native_load": true
+        },
+        {
+          "file": "Wait.ani",
+          "frames": 4,
+          "hotspots": [
+            [
+              32,
+              32
+            ],
+            [
+              32,
+              32
+            ],
+            [
+              32,
+              32
+            ],
+            [
+              32,
+              32
+            ]
+          ],
+          "native_load": true
+        },
+        {
+          "file": "Crosshair.cur",
+          "frames": 1,
+          "hotspots": [
+            [
+              16,
+              16
+            ]
+          ],
+          "native_load": true
+        },
+        {
+          "file": "IBeam.cur",
+          "frames": 1,
+          "hotspots": [
+            [
+              16,
+              16
+            ]
+          ],
+          "native_load": true
+        },
+        {
+          "file": "NWPen.cur",
+          "frames": 1,
+          "hotspots": [
+            [
+              7,
+              25
+            ]
+          ],
+          "native_load": true
+        },
+        {
+          "file": "No.cur",
+          "frames": 1,
+          "hotspots": [
+            [
+              16,
+              16
+            ]
+          ],
+          "native_load": true
+        },
+        {
+          "file": "SizeNS.cur",
+          "frames": 1,
+          "hotspots": [
+            [
+              16,
+              16
+            ]
+          ],
+          "native_load": true
+        },
+        {
+          "file": "SizeWE.cur",
+          "frames": 1,
+          "hotspots": [
+            [
+              16,
+              16
+            ]
+          ],
+          "native_load": true
+        },
+        {
+          "file": "SizeNWSE.cur",
+          "frames": 1,
+          "hotspots": [
+            [
+              16,
+              16
+            ]
+          ],
+          "native_load": true
+        },
+        {
+          "file": "SizeNESW.cur",
+          "frames": 1,
+          "hotspots": [
+            [
+              16,
+              16
+            ]
+          ],
+          "native_load": true
+        },
+        {
+          "file": "SizeAll.cur",
+          "frames": 1,
+          "hotspots": [
+            [
+              16,
+              16
+            ]
+          ],
+          "native_load": true
+        },
+        {
+          "file": "UpArrow.cur",
+          "frames": 1,
+          "hotspots": [
+            [
+              16,
+              3
+            ]
+          ],
+          "native_load": true
+        },
+        {
+          "file": "Hand.ani",
+          "frames": 4,
+          "hotspots": [
+            [
+              11,
+              5
+            ],
+            [
+              11,
+              5
+            ],
+            [
+              11,
+              5
+            ],
+            [
+              11,
+              5
+            ]
+          ],
+          "native_load": true
+        }
+      ],
+      "roundtrip": true,
+      "installed": false
+    },
+    {
+      "name": "一二·软糖白熊",
+      "project": "D:\\REA\\rea project\\Custom Cursor Studio\\examples\\yier-bear-v2\\theme.json",
+      "zip": "D:\\REA\\rea project\\Custom Cursor Studio\\examples\\yier-bear-v2\\一二·软糖白熊.zip",
+      "native_results": [
+        {
+          "file": "Arrow.ani",
+          "frames": 4,
+          "hotspots": [
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              2
+            ]
+          ],
+          "native_load": true
+        },
+        {
+          "file": "Help.cur",
+          "frames": 1,
+          "hotspots": [
+            [
+              2,
+              2
+            ]
+          ],
+          "native_load": true
+        },
+        {
+          "file": "AppStarting.ani",
+          "frames": 4,
+          "hotspots": [
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              2
+            ],
+            [
+              2,
+              2
+            ]
+          ],
+          "native_load": true
+        },
+        {
+          "file": "Wait.ani",
+          "frames": 4,
+          "hotspots": [
+            [
+              32,
+              32
+            ],
+            [
+              32,
+              32
+            ],
+            [
+              32,
+              32
+            ],
+            [
+              32,
+              32
+            ]
+          ],
+          "native_load": true
+        },
+        {
+          "file": "Crosshair.cur",
+          "frames": 1,
+          "hotspots": [
+            [
+              16,
+              16
+            ]
+          ],
+          "native_load": true
+        },
+        {
+          "file": "IBeam.cur",
+          "frames": 1,
+          "hotspots": [
+            [
+              16,
+              16
+            ]
+          ],
+          "native_load": true
+        },
+        {
+          "file": "NWPen.cur",
+          "frames": 1,
+          "hotspots": [
+            [
+              7,
+              25
+            ]
+          ],
+          "native_load": true
+        },
+        {
+          "file": "No.cur",
+          "frames": 1,
+          "hotspots": [
+            [
+              16,
+              16
+            ]
+          ],
+          "native_load": true
+        },
+        {
+          "file": "SizeNS.cur",
+          "frames": 1,
+          "hotspots": [
+            [
+              16,
+              16
+            ]
+          ],
+          "native_load": true
+        },
+        {
+          "file": "SizeWE.cur",
+          "frames": 1,
+          "hotspots": [
+            [
+              16,
+              16
+            ]
+          ],
+          "native_load": true
+        },
+        {
+          "file": "SizeNWSE.cur",
+          "frames": 1,
+          "hotspots": [
+            [
+              16,
+              16
+            ]
+          ],
+          "native_load": true
+        },
+        {
+          "file": "SizeNESW.cur",
+          "frames": 1,
+          "hotspots": [
+            [
+              16,
+              16
+            ]
+          ],
+          "native_load": true
+        },
+        {
+          "file": "SizeAll.cur",
+          "frames": 1,
+          "hotspots": [
+            [
+              16,
+              16
+            ]
+          ],
+          "native_load": true
+        },
+        {
+          "file": "UpArrow.cur",
+          "frames": 1,
+          "hotspots": [
+            [
+              16,
+              3
+            ]
+          ],
+          "native_load": true
+        },
+        {
+          "file": "Hand.ani",
+          "frames": 4,
+          "hotspots": [
+            [
+              11,
+              5
+            ],
+            [
+              11,
+              5
+            ],
+            [
+              11,
+              5
+            ],
+            [
+              11,
+              5
+            ]
+          ],
+          "native_load": true
+        }
+      ],
+      "roundtrip": true,
+      "installed": false
+    }
+  ],
+  "original_hashes_unchanged": true
+}

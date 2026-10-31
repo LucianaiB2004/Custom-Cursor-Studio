@@ -1,0 +1,8 @@
+# Preserve theme resources byte-for-byte, including original legacy encodings.
+懒羊羊/** -text
+一二/** -text
+吹泡泡Dva/** -text
+月神天使/** -text
+editor/references/** -text
+吹泡泡Dva/AutoSetup.inf binary
+月神天使/AutoSetup.inf binary

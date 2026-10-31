@@ -1,0 +1,441 @@
+{
+  "format": "custom-cursor-studio",
+  "version": 1,
+  "name": "懒羊羊",
+  "author": "Custom Cursor Studio",
+  "description": "根据原案例重新生成高清透明角色母版，256px编辑素材直接缩小到64/96/128px。四帧轻浮动与忙碌环动画，非逐帧表情重绘；角色权利属于原权利人。",
+  "canvas_size": 64,
+  "scale": 1.0,
+  "roles": {
+    "Arrow": {
+      "size": 64,
+      "scale": null,
+      "interpolation": "smooth",
+      "alignment": "center",
+      "fit": "contain",
+      "opacity": 1.0,
+      "frames": [
+        {
+          "asset": "assets/2f46d16ec747ec76d7efabe48677576dc816e56d04531bd71bac103910737b18.png",
+          "hotspot": [
+            2,
+            2
+          ],
+          "duration_ms": 400
+        },
+        {
+          "asset": "assets/79bc09940611c897d2e91f0954ca60817eb65b1abf54d58a7d52f4c00bc1db8f.png",
+          "hotspot": [
+            2,
+            2
+          ],
+          "duration_ms": 120
+        },
+        {
+          "asset": "assets/87f602ce9877636e525117a68e6385ade0a2a4aff252479e9639c48a078d2ed1.png",
+          "hotspot": [
+            2,
+            2
+          ],
+          "duration_ms": 120
+        },
+        {
+          "asset": "assets/79bc09940611c897d2e91f0954ca60817eb65b1abf54d58a7d52f4c00bc1db8f.png",
+          "hotspot": [
+            2,
+            2
+          ],
+          "duration_ms": 240
+        }
+      ]
+    },
+    "Help": {
+      "size": 64,
+      "scale": null,
+      "interpolation": "smooth",
+      "alignment": "center",
+      "fit": "contain",
+      "opacity": 1.0,
+      "frames": [
+        {
+          "asset": "assets/87bb868f5990b1aaf1eecd3070e53c07756c2d2451278267c560a704c131a782.png",
+          "hotspot": [
+            2,
+            2
+          ],
+          "duration_ms": 100
+        }
+      ]
+    },
+    "AppStarting": {
+      "size": 64,
+      "scale": null,
+      "interpolation": "smooth",
+      "alignment": "center",
+      "fit": "contain",
+      "opacity": 1.0,
+      "frames": [
+        {
+          "asset": "assets/b3d6d2bae90e4d5bb91422f78472225a284966ae40df91d061314334ec2b932b.png",
+          "hotspot": [
+            2,
+            2
+          ],
+          "duration_ms": 120
+        },
+        {
+          "asset": "assets/c1714a8d62e4ab6d02a345df19851b9cc9165bd5a8c9d11fc4640680976e6e73.png",
+          "hotspot": [
+            2,
+            2
+          ],
+          "duration_ms": 120
+        },
+        {
+          "asset": "assets/cc33c2c2fc76f4020548a6c8470b5935af8515a41deaa66d70ce27946562ea23.png",
+          "hotspot": [
+            2,
+            2
+          ],
+          "duration_ms": 120
+        },
+        {
+          "asset": "assets/f694bf1927375782685ded4d99cf0bbe885a2c89476f82b0ef5f912bf7e36e25.png",
+          "hotspot": [
+            2,
+            2
+          ],
+          "duration_ms": 120
+        },
+        {
+          "asset": "assets/d2a0ad848e4dd135ff753cfe04d30e2e68f5dff3dacffe8c5da07d267f34263d.png",
+          "hotspot": [
+            2,
+            2
+          ],
+          "duration_ms": 120
+        },
+        {
+          "asset": "assets/5a7a0d4b56cc6f82d6dca4c0f6037a8a1297cebe08e57acae15925211f3f88fa.png",
+          "hotspot": [
+            2,
+            2
+          ],
+          "duration_ms": 120
+        },
+        {
+          "asset": "assets/b050527ef3a2aab90b1aad2bacd63b1834691014afadeb36ab61d28bbe1c8005.png",
+          "hotspot": [
+            2,
+            2
+          ],
+          "duration_ms": 120
+        },
+        {
+          "asset": "assets/e061f02638decaa6c77fa6e66cff2a9831b404e573d9c483d95c8b94e69e8a9b.png",
+          "hotspot": [
+            2,
+            2
+          ],
+          "duration_ms": 120
+        }
+      ]
+    },
+    "Wait": {
+      "size": 64,
+      "scale": null,
+      "interpolation": "smooth",
+      "alignment": "center",
+      "fit": "contain",
+      "opacity": 1.0,
+      "frames": [
+        {
+          "asset": "assets/1415760891fcd707b2c819fe41d52cafa3feedbe88b8d292f7aa078317a26c88.png",
+          "hotspot": [
+            15,
+            15
+          ],
+          "duration_ms": 120
+        },
+        {
+          "asset": "assets/54c8d1af102f0687cd44a99794be67a75f206358874f562e06f2611667b5bb01.png",
+          "hotspot": [
+            15,
+            15
+          ],
+          "duration_ms": 120
+        },
+        {
+          "asset": "assets/7afd27c454bd1340b1db24683babc8463863425d336744ca0c138683fd0643a3.png",
+          "hotspot": [
+            15,
+            15
+          ],
+          "duration_ms": 120
+        },
+        {
+          "asset": "assets/00caf5fb2321b812579eb43242b66f7935bdd665a400a5e8edf0794e302962b8.png",
+          "hotspot": [
+            15,
+            15
+          ],
+          "duration_ms": 120
+        },
+        {
+          "asset": "assets/65b0833b6c014d137f17a07bd1c86090f97037106148cb51f2ca1d4cfa424c3d.png",
+          "hotspot": [
+            15,
+            15
+          ],
+          "duration_ms": 120
+        },
+        {
+          "asset": "assets/9245baaf012a28217b43274fb5786d3f86645b230f2cb5e7b00457bb09e0ac04.png",
+          "hotspot": [
+            15,
+            15
+          ],
+          "duration_ms": 120
+        },
+        {
+          "asset": "assets/837e57e9ee1aa110ef433a7525544fd6823b97f9b0fe5fb234783d0efd4b27d6.png",
+          "hotspot": [
+            15,
+            15
+          ],
+          "duration_ms": 120
+        },
+        {
+          "asset": "assets/30f7fef96dfce16a0e412195d8a66df2a1b337e7033bf5f6b340548a4273828a.png",
+          "hotspot": [
+            15,
+            15
+          ],
+          "duration_ms": 120
+        }
+      ]
+    },
+    "Crosshair": {
+      "size": 64,
+      "scale": null,
+      "interpolation": "smooth",
+      "alignment": "center",
+      "fit": "contain",
+      "opacity": 1.0,
+      "frames": [
+        {
+          "asset": "assets/429a8d05de9b09cde89df3d97279e16a50c63a4763185bcc0791db8dbfdc5cb5.png",
+          "hotspot": [
+            13,
+            13
+          ],
+          "duration_ms": 100
+        }
+      ]
+    },
+    "IBeam": {
+      "size": 64,
+      "scale": null,
+      "interpolation": "smooth",
+      "alignment": "center",
+      "fit": "contain",
+      "opacity": 1.0,
+      "frames": [
+        {
+          "asset": "assets/ed1f70a3a229c401703446072f758c83c8a9429b1316581e5447de162ab7e636.png",
+          "hotspot": [
+            13,
+            13
+          ],
+          "duration_ms": 100
+        }
+      ]
+    },
+    "NWPen": {
+      "size": 64,
+      "scale": null,
+      "interpolation": "smooth",
+      "alignment": "center",
+      "fit": "contain",
+      "opacity": 1.0,
+      "frames": [
+        {
+          "asset": "assets/0875e51a70d117027c0655f44055a20ee81647096998a2ab7b20466ad6f2a698.png",
+          "hotspot": [
+            2,
+            26
+          ],
+          "duration_ms": 100
+        }
+      ]
+    },
+    "No": {
+      "size": 64,
+      "scale": null,
+      "interpolation": "smooth",
+      "alignment": "center",
+      "fit": "contain",
+      "opacity": 1.0,
+      "frames": [
+        {
+          "asset": "assets/89d5ebce020e6ba1583314837d3ca741844c15330e73b3c48ab6a7cc2a499886.png",
+          "hotspot": [
+            14,
+            14
+          ],
+          "duration_ms": 100
+        }
+      ]
+    },
+    "SizeNS": {
+      "size": 64,
+      "scale": null,
+      "interpolation": "smooth",
+      "alignment": "center",
+      "fit": "contain",
+      "opacity": 1.0,
+      "frames": [
+        {
+          "asset": "assets/accafa0a434d6a5f7a3224033b1382523e4243ae1e66a33ff7271c11fa8fc6f3.png",
+          "hotspot": [
+            14,
+            14
+          ],
+          "duration_ms": 100
+        }
+      ]
+    },
+    "SizeWE": {
+      "size": 64,
+      "scale": null,
+      "interpolation": "smooth",
+      "alignment": "center",
+      "fit": "contain",
+      "opacity": 1.0,
+      "frames": [
+        {
+          "asset": "assets/35dd8bf79afded62fbb8aaa715679f1edfb72045dd52d6b31a86a76992b383b2.png",
+          "hotspot": [
+            14,
+            14
+          ],
+          "duration_ms": 100
+        }
+      ]
+    },
+    "SizeNWSE": {
+      "size": 64,
+      "scale": null,
+      "interpolation": "smooth",
+      "alignment": "center",
+      "fit": "contain",
+      "opacity": 1.0,
+      "frames": [
+        {
+          "asset": "assets/472e517752a9ded772c88bb9c2d6e971ac7b9af2dc9266568fcd517c2c0d321d.png",
+          "hotspot": [
+            14,
+            14
+          ],
+          "duration_ms": 100
+        }
+      ]
+    },
+    "SizeNESW": {
+      "size": 64,
+      "scale": null,
+      "interpolation": "smooth",
+      "alignment": "center",
+      "fit": "contain",
+      "opacity": 1.0,
+      "frames": [
+        {
+          "asset": "assets/325af292555e34b87df9c13674f37aa657213d7c523da4a4693a5f2b690373e3.png",
+          "hotspot": [
+            14,
+            14
+          ],
+          "duration_ms": 100
+        }
+      ]
+    },
+    "SizeAll": {
+      "size": 64,
+      "scale": null,
+      "interpolation": "smooth",
+      "alignment": "center",
+      "fit": "contain",
+      "opacity": 1.0,
+      "frames": [
+        {
+          "asset": "assets/34f19c684dd17c3f3d41be48e03ffca5d0b918fd521b43c530853c6222af1eed.png",
+          "hotspot": [
+            14,
+            14
+          ],
+          "duration_ms": 100
+        }
+      ]
+    },
+    "UpArrow": {
+      "size": 64,
+      "scale": null,
+      "interpolation": "smooth",
+      "alignment": "center",
+      "fit": "contain",
+      "opacity": 1.0,
+      "frames": [
+        {
+          "asset": "assets/ecc9f9c8f8c05649faedef85a437cb3ad9c3bb3703b19b56a527c81482b51a37.png",
+          "hotspot": [
+            14,
+            2
+          ],
+          "duration_ms": 100
+        }
+      ]
+    },
+    "Hand": {
+      "size": 64,
+      "scale": null,
+      "interpolation": "smooth",
+      "alignment": "center",
+      "fit": "contain",
+      "opacity": 1.0,
+      "frames": [
+        {
+          "asset": "assets/4b62911585b0fabc4011d83ce9a7d1e893ba7a9a068f4f44cdd55c981bd7dfae.png",
+          "hotspot": [
+            10,
+            3
+          ],
+          "duration_ms": 400
+        },
+        {
+          "asset": "assets/f94a874abe9956befc93ada1e21ebbdbc81d8835b05220f2da8ab8e2fc0dd2c9.png",
+          "hotspot": [
+            10,
+            3
+          ],
+          "duration_ms": 120
+        },
+        {
+          "asset": "assets/280cf58ac2a9e362a5aba12ed7072fd87e2ee3419fd4348bbcf51806a1e57bdd.png",
+          "hotspot": [
+            10,
+            3
+          ],
+          "duration_ms": 120
+        },
+        {
+          "asset": "assets/f94a874abe9956befc93ada1e21ebbdbc81d8835b05220f2da8ab8e2fc0dd2c9.png",
+          "hotspot": [
+            10,
+            3
+          ],
+          "duration_ms": 240
+        }
+      ]
+    }
+  }
+}

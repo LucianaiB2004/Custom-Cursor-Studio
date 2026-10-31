@@ -1,0 +1,4 @@
+interface:
+  display_name: "自定义光标主题创作"
+  short_description: "从文字描述或本地透明素材创作可编辑的 Windows 光标主题与安装包"
+  default_prompt: "使用 $cursor-theme-creator，根据我的描述或参考图片创作一套可编辑的 Windows 光标主题。"

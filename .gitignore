@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.egg-info/
+build/
+dist/
+evidence/system-backups/
+editor/evidence/system-backups/
+*.log
+.env
+.env.*
+!.env.example
+projects/

@@ -1,0 +1,759 @@
+{
+  "themes": [
+    {
+      "folder": "吹泡泡Dva",
+      "name": "吹泡泡的D.va（作者：未奈minako）",
+      "warnings": [
+        "原 INF 含 HKLM 写入；仅读取映射，未执行",
+        "原 INF 含 RunOnce；不会复制或执行该指令",
+        "历史 ANI 将 RIFF 长度写成文件总长；按实际文件边界只读解析，导出时修正",
+        "历史 ANI 含顺序 seq 但未设 AF_SEQUENCE；播放顺序与 Windows 默认一致"
+      ],
+      "roles": [
+        {
+          "key": "Arrow",
+          "name": "正常选择",
+          "file": "吹泡泡Dva\\正常选择.ani",
+          "sizes": [
+            "64×64"
+          ],
+          "hotspots": [
+            [
+              0,
+              0
+            ]
+          ],
+          "source_frames": 4,
+          "playback_steps": 4,
+          "durations_ms": [
+            1000.0,
+            200.0,
+            200.0,
+            200.0
+          ],
+          "sequence": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "native_load": true
+        },
+        {
+          "key": "Help",
+          "name": "帮助选择",
+          "file": "吹泡泡Dva\\帮助选择.cur",
+          "sizes": [
+            "64×64"
+          ],
+          "hotspots": [
+            [
+              0,
+              0
+            ]
+          ],
+          "source_frames": 1,
+          "playback_steps": 1,
+          "durations_ms": [],
+          "sequence": [],
+          "native_load": true
+        },
+        {
+          "key": "AppStarting",
+          "name": "后台运行",
+          "file": "吹泡泡Dva\\后台运行.ani",
+          "sizes": [
+            "64×64"
+          ],
+          "hotspots": [
+            [
+              0,
+              0
+            ]
+          ],
+          "source_frames": 6,
+          "playback_steps": 6,
+          "durations_ms": [
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            100.0,
+            100.0
+          ],
+          "sequence": [
+            0,
+            1,
+            2,
+            3,
+            4,
+            5
+          ],
+          "native_load": true
+        },
+        {
+          "key": "Wait",
+          "name": "忙",
+          "file": "吹泡泡Dva\\忙.ani",
+          "sizes": [
+            "64×64"
+          ],
+          "hotspots": [
+            [
+              0,
+              0
+            ]
+          ],
+          "source_frames": 4,
+          "playback_steps": 4,
+          "durations_ms": [
+            200.0,
+            200.0,
+            200.0,
+            200.0
+          ],
+          "sequence": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "native_load": true
+        },
+        {
+          "key": "Crosshair",
+          "name": "精确选择",
+          "file": "吹泡泡Dva\\精确选择.ani",
+          "sizes": [
+            "64×64"
+          ],
+          "hotspots": [
+            [
+              9,
+              11
+            ]
+          ],
+          "source_frames": 4,
+          "playback_steps": 4,
+          "durations_ms": [
+            800.0,
+            200.0,
+            200.0,
+            200.0
+          ],
+          "sequence": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "native_load": true
+        },
+        {
+          "key": "IBeam",
+          "name": "文本选择",
+          "file": "吹泡泡Dva\\文本选择.cur",
+          "sizes": [
+            "64×64"
+          ],
+          "hotspots": [
+            [
+              9,
+              11
+            ]
+          ],
+          "source_frames": 1,
+          "playback_steps": 1,
+          "durations_ms": [],
+          "sequence": [],
+          "native_load": true
+        },
+        {
+          "key": "NWPen",
+          "name": "手写",
+          "file": "吹泡泡Dva\\手写.cur",
+          "sizes": [
+            "64×64"
+          ],
+          "hotspots": [
+            [
+              0,
+              0
+            ]
+          ],
+          "source_frames": 1,
+          "playback_steps": 1,
+          "durations_ms": [],
+          "sequence": [],
+          "native_load": true
+        },
+        {
+          "key": "No",
+          "name": "不可用",
+          "file": "吹泡泡Dva\\不可用.cur",
+          "sizes": [
+            "64×64"
+          ],
+          "hotspots": [
+            [
+              0,
+              0
+            ]
+          ],
+          "source_frames": 1,
+          "playback_steps": 1,
+          "durations_ms": [],
+          "sequence": [],
+          "native_load": true
+        },
+        {
+          "key": "SizeNS",
+          "name": "垂直调整大小",
+          "file": "吹泡泡Dva\\垂直调整大小.ani",
+          "sizes": [
+            "64×64"
+          ],
+          "hotspots": [
+            [
+              32,
+              32
+            ]
+          ],
+          "source_frames": 2,
+          "playback_steps": 2,
+          "durations_ms": [
+            200.0,
+            200.0
+          ],
+          "sequence": [
+            0,
+            1
+          ],
+          "native_load": true
+        },
+        {
+          "key": "SizeWE",
+          "name": "水平调整大小",
+          "file": "吹泡泡Dva\\水平调整大小.ani",
+          "sizes": [
+            "64×64"
+          ],
+          "hotspots": [
+            [
+              32,
+              32
+            ]
+          ],
+          "source_frames": 2,
+          "playback_steps": 2,
+          "durations_ms": [
+            200.0,
+            200.0
+          ],
+          "sequence": [
+            0,
+            1
+          ],
+          "native_load": true
+        },
+        {
+          "key": "SizeNWSE",
+          "name": "斜向调整 1",
+          "file": "吹泡泡Dva\\沿对角线调整大小1.ani",
+          "sizes": [
+            "64×64"
+          ],
+          "hotspots": [
+            [
+              32,
+              32
+            ]
+          ],
+          "source_frames": 2,
+          "playback_steps": 2,
+          "durations_ms": [
+            200.0,
+            200.0
+          ],
+          "sequence": [
+            0,
+            1
+          ],
+          "native_load": true
+        },
+        {
+          "key": "SizeNESW",
+          "name": "斜向调整 2",
+          "file": "吹泡泡Dva\\沿对角线调整大小2.ani",
+          "sizes": [
+            "64×64"
+          ],
+          "hotspots": [
+            [
+              32,
+              32
+            ]
+          ],
+          "source_frames": 2,
+          "playback_steps": 2,
+          "durations_ms": [
+            200.0,
+            200.0
+          ],
+          "sequence": [
+            0,
+            1
+          ],
+          "native_load": true
+        },
+        {
+          "key": "SizeAll",
+          "name": "移动",
+          "file": "吹泡泡Dva\\移动.ani",
+          "sizes": [
+            "64×64"
+          ],
+          "hotspots": [
+            [
+              32,
+              32
+            ]
+          ],
+          "source_frames": 2,
+          "playback_steps": 2,
+          "durations_ms": [
+            200.0,
+            200.0
+          ],
+          "sequence": [
+            0,
+            1
+          ],
+          "native_load": true
+        },
+        {
+          "key": "UpArrow",
+          "name": "候选",
+          "file": "吹泡泡Dva\\候选.cur",
+          "sizes": [
+            "64×64"
+          ],
+          "hotspots": [
+            [
+              32,
+              0
+            ]
+          ],
+          "source_frames": 1,
+          "playback_steps": 1,
+          "durations_ms": [],
+          "sequence": [],
+          "native_load": true
+        },
+        {
+          "key": "Hand",
+          "name": "链接选择",
+          "file": "吹泡泡Dva\\链接选择.cur",
+          "sizes": [
+            "64×64"
+          ],
+          "hotspots": [
+            [
+              0,
+              0
+            ]
+          ],
+          "source_frames": 1,
+          "playback_steps": 1,
+          "durations_ms": [],
+          "sequence": [],
+          "native_load": true
+        }
+      ]
+    },
+    {
+      "folder": "月神天使",
+      "name": "~ow月神天使（by：未奈minako）",
+      "warnings": [
+        "原 INF 含 HKLM 写入；仅读取映射，未执行",
+        "原 INF 含 RunOnce；不会复制或执行该指令",
+        "历史 ANI 将 RIFF 长度写成文件总长；按实际文件边界只读解析，导出时修正",
+        "历史 ANI 含顺序 seq 但未设 AF_SEQUENCE；播放顺序与 Windows 默认一致"
+      ],
+      "roles": [
+        {
+          "key": "Arrow",
+          "name": "正常选择",
+          "file": "月神天使\\正常选择.ani",
+          "sizes": [
+            "128×128"
+          ],
+          "hotspots": [
+            [
+              0,
+              0
+            ]
+          ],
+          "source_frames": 4,
+          "playback_steps": 4,
+          "durations_ms": [
+            300.0,
+            300.0,
+            300.0,
+            300.0
+          ],
+          "sequence": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "native_load": true
+        },
+        {
+          "key": "Help",
+          "name": "帮助选择",
+          "file": "月神天使\\帮助选择.cur",
+          "sizes": [
+            "128×128"
+          ],
+          "hotspots": [
+            [
+              0,
+              0
+            ]
+          ],
+          "source_frames": 1,
+          "playback_steps": 1,
+          "durations_ms": [],
+          "sequence": [],
+          "native_load": true
+        },
+        {
+          "key": "AppStarting",
+          "name": "后台运行",
+          "file": "月神天使\\后台运行.ani",
+          "sizes": [
+            "128×128"
+          ],
+          "hotspots": [
+            [
+              0,
+              0
+            ]
+          ],
+          "source_frames": 4,
+          "playback_steps": 4,
+          "durations_ms": [
+            200.0,
+            200.0,
+            200.0,
+            200.0
+          ],
+          "sequence": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "native_load": true
+        },
+        {
+          "key": "Wait",
+          "name": "忙",
+          "file": "月神天使\\忙.ani",
+          "sizes": [
+            "128×128"
+          ],
+          "hotspots": [
+            [
+              0,
+              0
+            ]
+          ],
+          "source_frames": 2,
+          "playback_steps": 2,
+          "durations_ms": [
+            400.0,
+            400.0
+          ],
+          "sequence": [
+            0,
+            1
+          ],
+          "native_load": true
+        },
+        {
+          "key": "Crosshair",
+          "name": "精确选择",
+          "file": "月神天使\\精确选择.ani",
+          "sizes": [
+            "128×128"
+          ],
+          "hotspots": [
+            [
+              13,
+              13
+            ]
+          ],
+          "source_frames": 2,
+          "playback_steps": 2,
+          "durations_ms": [
+            200.0,
+            200.0
+          ],
+          "sequence": [
+            0,
+            1
+          ],
+          "native_load": true
+        },
+        {
+          "key": "IBeam",
+          "name": "文本选择",
+          "file": "月神天使\\文本选择.ani",
+          "sizes": [
+            "128×128"
+          ],
+          "hotspots": [
+            [
+              10,
+              15
+            ]
+          ],
+          "source_frames": 4,
+          "playback_steps": 4,
+          "durations_ms": [
+            600.0,
+            200.0,
+            200.0,
+            200.0
+          ],
+          "sequence": [
+            0,
+            1,
+            2,
+            3
+          ],
+          "native_load": true
+        },
+        {
+          "key": "NWPen",
+          "name": "手写",
+          "file": "月神天使\\手写.cur",
+          "sizes": [
+            "128×128"
+          ],
+          "hotspots": [
+            [
+              0,
+              0
+            ]
+          ],
+          "source_frames": 1,
+          "playback_steps": 1,
+          "durations_ms": [],
+          "sequence": [],
+          "native_load": true
+        },
+        {
+          "key": "No",
+          "name": "不可用",
+          "file": "月神天使\\不可用.ani",
+          "sizes": [
+            "128×128"
+          ],
+          "hotspots": [
+            [
+              0,
+              0
+            ]
+          ],
+          "source_frames": 2,
+          "playback_steps": 2,
+          "durations_ms": [
+            200.0,
+            200.0
+          ],
+          "sequence": [
+            0,
+            1
+          ],
+          "native_load": true
+        },
+        {
+          "key": "SizeNS",
+          "name": "垂直调整大小",
+          "file": "月神天使\\垂直调整大小.ani",
+          "sizes": [
+            "128×128"
+          ],
+          "hotspots": [
+            [
+              64,
+              64
+            ]
+          ],
+          "source_frames": 2,
+          "playback_steps": 2,
+          "durations_ms": [
+            300.0,
+            300.0
+          ],
+          "sequence": [
+            0,
+            1
+          ],
+          "native_load": true
+        },
+        {
+          "key": "SizeWE",
+          "name": "水平调整大小",
+          "file": "月神天使\\水平调整大小.ani",
+          "sizes": [
+            "128×128"
+          ],
+          "hotspots": [
+            [
+              64,
+              64
+            ]
+          ],
+          "source_frames": 2,
+          "playback_steps": 2,
+          "durations_ms": [
+            300.0,
+            300.0
+          ],
+          "sequence": [
+            0,
+            1
+          ],
+          "native_load": true
+        },
+        {
+          "key": "SizeNWSE",
+          "name": "斜向调整 1",
+          "file": "月神天使\\沿对角线调整大小1.ani",
+          "sizes": [
+            "128×128"
+          ],
+          "hotspots": [
+            [
+              64,
+              64
+            ]
+          ],
+          "source_frames": 2,
+          "playback_steps": 2,
+          "durations_ms": [
+            300.0,
+            300.0
+          ],
+          "sequence": [
+            0,
+            1
+          ],
+          "native_load": true
+        },
+        {
+          "key": "SizeNESW",
+          "name": "斜向调整 2",
+          "file": "月神天使\\沿对角线调整大小2.ani",
+          "sizes": [
+            "128×128"
+          ],
+          "hotspots": [
+            [
+              64,
+              64
+            ]
+          ],
+          "source_frames": 2,
+          "playback_steps": 2,
+          "durations_ms": [
+            300.0,
+            300.0
+          ],
+          "sequence": [
+            0,
+            1
+          ],
+          "native_load": true
+        },
+        {
+          "key": "SizeAll",
+          "name": "移动",
+          "file": "月神天使\\移动.ani",
+          "sizes": [
+            "128×128"
+          ],
+          "hotspots": [
+            [
+              64,
+              64
+            ]
+          ],
+          "source_frames": 2,
+          "playback_steps": 2,
+          "durations_ms": [
+            300.0,
+            300.0
+          ],
+          "sequence": [
+            0,
+            1
+          ],
+          "native_load": true
+        },
+        {
+          "key": "UpArrow",
+          "name": "候选",
+          "file": "月神天使\\候选.cur",
+          "sizes": [
+            "128×128"
+          ],
+          "hotspots": [
+            [
+              25,
+              7
+            ]
+          ],
+          "source_frames": 1,
+          "playback_steps": 1,
+          "durations_ms": [],
+          "sequence": [],
+          "native_load": true
+        },
+        {
+          "key": "Hand",
+          "name": "链接选择",
+          "file": "月神天使\\链接选择.ani",
+          "sizes": [
+            "128×128"
+          ],
+          "hotspots": [
+            [
+              1,
+              1
+            ]
+          ],
+          "source_frames": 2,
+          "playback_steps": 2,
+          "durations_ms": [
+            300.0,
+            300.0
+          ],
+          "sequence": [
+            0,
+            1
+          ],
+          "native_load": true
+        }
+      ]
+    }
+  ],
+  "unchanged": true,
+  "files_checked": 36,
+  "changed_files": []
+}

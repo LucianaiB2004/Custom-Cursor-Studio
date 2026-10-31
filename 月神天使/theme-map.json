@@ -1,0 +1,81 @@
+{
+  "name": "月神天使",
+  "default_size": 96,
+  "master": "artwork/高清母版.png",
+  "variants": {
+    "64": {
+      "roles": {
+        "Arrow": "Windows主题/64/Arrow.ani",
+        "Help": "Windows主题/64/Help.cur",
+        "AppStarting": "Windows主题/64/AppStarting.ani",
+        "Wait": "Windows主题/64/Wait.ani",
+        "Crosshair": "Windows主题/64/Crosshair.cur",
+        "IBeam": "Windows主题/64/IBeam.cur",
+        "NWPen": "Windows主题/64/NWPen.cur",
+        "No": "Windows主题/64/No.cur",
+        "SizeNS": "Windows主题/64/SizeNS.cur",
+        "SizeWE": "Windows主题/64/SizeWE.cur",
+        "SizeNWSE": "Windows主题/64/SizeNWSE.cur",
+        "SizeNESW": "Windows主题/64/SizeNESW.cur",
+        "SizeAll": "Windows主题/64/SizeAll.cur",
+        "UpArrow": "Windows主题/64/UpArrow.cur",
+        "Hand": "Windows主题/64/Hand.ani"
+      }
+    },
+    "96": {
+      "roles": {
+        "Arrow": "Windows主题/96/Arrow.ani",
+        "Help": "Windows主题/96/Help.cur",
+        "AppStarting": "Windows主题/96/AppStarting.ani",
+        "Wait": "Windows主题/96/Wait.ani",
+        "Crosshair": "Windows主题/96/Crosshair.cur",
+        "IBeam": "Windows主题/96/IBeam.cur",
+        "NWPen": "Windows主题/96/NWPen.cur",
+        "No": "Windows主题/96/No.cur",
+        "SizeNS": "Windows主题/96/SizeNS.cur",
+        "SizeWE": "Windows主题/96/SizeWE.cur",
+        "SizeNWSE": "Windows主题/96/SizeNWSE.cur",
+        "SizeNESW": "Windows主题/96/SizeNESW.cur",
+        "SizeAll": "Windows主题/96/SizeAll.cur",
+        "UpArrow": "Windows主题/96/UpArrow.cur",
+        "Hand": "Windows主题/96/Hand.ani"
+      }
+    },
+    "128": {
+      "roles": {
+        "Arrow": "Windows主题/128/Arrow.ani",
+        "Help": "Windows主题/128/Help.cur",
+        "AppStarting": "Windows主题/128/AppStarting.ani",
+        "Wait": "Windows主题/128/Wait.ani",
+        "Crosshair": "Windows主题/128/Crosshair.cur",
+        "IBeam": "Windows主题/128/IBeam.cur",
+        "NWPen": "Windows主题/128/NWPen.cur",
+        "No": "Windows主题/128/No.cur",
+        "SizeNS": "Windows主题/128/SizeNS.cur",
+        "SizeWE": "Windows主题/128/SizeWE.cur",
+        "SizeNWSE": "Windows主题/128/SizeNWSE.cur",
+        "SizeNESW": "Windows主题/128/SizeNESW.cur",
+        "SizeAll": "Windows主题/128/SizeAll.cur",
+        "UpArrow": "Windows主题/128/UpArrow.cur",
+        "Hand": "Windows主题/128/Hand.ani"
+      }
+    }
+  },
+  "roles": {
+    "Arrow": "Windows主题/96/Arrow.ani",
+    "Help": "Windows主题/96/Help.cur",
+    "AppStarting": "Windows主题/96/AppStarting.ani",
+    "Wait": "Windows主题/96/Wait.ani",
+    "Crosshair": "Windows主题/96/Crosshair.cur",
+    "IBeam": "Windows主题/96/IBeam.cur",
+    "NWPen": "Windows主题/96/NWPen.cur",
+    "No": "Windows主题/96/No.cur",
+    "SizeNS": "Windows主题/96/SizeNS.cur",
+    "SizeWE": "Windows主题/96/SizeWE.cur",
+    "SizeNWSE": "Windows主题/96/SizeNWSE.cur",
+    "SizeNESW": "Windows主题/96/SizeNESW.cur",
+    "SizeAll": "Windows主题/96/SizeAll.cur",
+    "UpArrow": "Windows主题/96/UpArrow.cur",
+    "Hand": "Windows主题/96/Hand.ani"
+  }
+}

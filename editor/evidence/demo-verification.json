@@ -1,0 +1,242 @@
+{
+  "project": "examples\\demo\\theme.json",
+  "archive": "examples\\demo-theme.zip",
+  "original_graphics": true,
+  "reference_artwork_used": false,
+  "project_pixel_hotspot_duration_roundtrip": true,
+  "cursor_files": 15,
+  "native_validation": [
+    {
+      "role": "Arrow",
+      "file": "Arrow.cur",
+      "native_load": true,
+      "frames": 1,
+      "hotspots": [
+        [
+          8,
+          6
+        ]
+      ],
+      "durations_ms": []
+    },
+    {
+      "role": "Help",
+      "file": "Help.cur",
+      "native_load": true,
+      "frames": 1,
+      "hotspots": [
+        [
+          8,
+          6
+        ]
+      ],
+      "durations_ms": []
+    },
+    {
+      "role": "AppStarting",
+      "file": "AppStarting.ani",
+      "native_load": true,
+      "frames": 4,
+      "hotspots": [
+        [
+          8,
+          6
+        ],
+        [
+          8,
+          6
+        ],
+        [
+          8,
+          6
+        ],
+        [
+          8,
+          6
+        ]
+      ],
+      "durations_ms": [
+        400.0,
+        100.0,
+        100.0,
+        200.0
+      ]
+    },
+    {
+      "role": "Wait",
+      "file": "Wait.ani",
+      "native_load": true,
+      "frames": 4,
+      "hotspots": [
+        [
+          32,
+          32
+        ],
+        [
+          32,
+          32
+        ],
+        [
+          32,
+          32
+        ],
+        [
+          32,
+          32
+        ]
+      ],
+      "durations_ms": [
+        400.0,
+        100.0,
+        100.0,
+        200.0
+      ]
+    },
+    {
+      "role": "Crosshair",
+      "file": "Crosshair.cur",
+      "native_load": true,
+      "frames": 1,
+      "hotspots": [
+        [
+          32,
+          32
+        ]
+      ],
+      "durations_ms": []
+    },
+    {
+      "role": "IBeam",
+      "file": "IBeam.cur",
+      "native_load": true,
+      "frames": 1,
+      "hotspots": [
+        [
+          32,
+          32
+        ]
+      ],
+      "durations_ms": []
+    },
+    {
+      "role": "NWPen",
+      "file": "NWPen.cur",
+      "native_load": true,
+      "frames": 1,
+      "hotspots": [
+        [
+          14,
+          50
+        ]
+      ],
+      "durations_ms": []
+    },
+    {
+      "role": "No",
+      "file": "No.cur",
+      "native_load": true,
+      "frames": 1,
+      "hotspots": [
+        [
+          32,
+          32
+        ]
+      ],
+      "durations_ms": []
+    },
+    {
+      "role": "SizeNS",
+      "file": "SizeNS.cur",
+      "native_load": true,
+      "frames": 1,
+      "hotspots": [
+        [
+          32,
+          32
+        ]
+      ],
+      "durations_ms": []
+    },
+    {
+      "role": "SizeWE",
+      "file": "SizeWE.cur",
+      "native_load": true,
+      "frames": 1,
+      "hotspots": [
+        [
+          32,
+          32
+        ]
+      ],
+      "durations_ms": []
+    },
+    {
+      "role": "SizeNWSE",
+      "file": "SizeNWSE.cur",
+      "native_load": true,
+      "frames": 1,
+      "hotspots": [
+        [
+          32,
+          32
+        ]
+      ],
+      "durations_ms": []
+    },
+    {
+      "role": "SizeNESW",
+      "file": "SizeNESW.cur",
+      "native_load": true,
+      "frames": 1,
+      "hotspots": [
+        [
+          32,
+          32
+        ]
+      ],
+      "durations_ms": []
+    },
+    {
+      "role": "SizeAll",
+      "file": "SizeAll.cur",
+      "native_load": true,
+      "frames": 1,
+      "hotspots": [
+        [
+          32,
+          32
+        ]
+      ],
+      "durations_ms": []
+    },
+    {
+      "role": "UpArrow",
+      "file": "UpArrow.cur",
+      "native_load": true,
+      "frames": 1,
+      "hotspots": [
+        [
+          32,
+          6
+        ]
+      ],
+      "durations_ms": []
+    },
+    {
+      "role": "Hand",
+      "file": "Hand.cur",
+      "native_load": true,
+      "frames": 1,
+      "hotspots": [
+        [
+          22,
+          10
+        ]
+      ],
+      "durations_ms": []
+    }
+  ],
+  "original_reference_files_checked": 36,
+  "original_reference_hashes_unchanged": true,
+  "installed_or_activated": false
+}

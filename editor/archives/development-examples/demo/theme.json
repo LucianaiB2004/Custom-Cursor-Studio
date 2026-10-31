@@ -1,0 +1,329 @@
+{
+  "format": "custom-cursor-studio",
+  "version": 1,
+  "name": "薄荷星光",
+  "author": "Custom Cursor Studio",
+  "description": "由本仓库脚本绘制的原创像素示例。15 个角色均有对应图形；后台运行和忙状态各有四帧。可自由修改和使用。",
+  "canvas_size": 64,
+  "scale": 1.0,
+  "roles": {
+    "Arrow": {
+      "size": 64,
+      "scale": null,
+      "interpolation": "nearest",
+      "alignment": "center",
+      "fit": "contain",
+      "opacity": 1.0,
+      "frames": [
+        {
+          "asset": "assets/3d3e187832c954113644b072d07576e5920fb82c8fc33db1570263fd278ee1f9.png",
+          "hotspot": [
+            8,
+            6
+          ],
+          "duration_ms": 100
+        }
+      ]
+    },
+    "Help": {
+      "size": 64,
+      "scale": null,
+      "interpolation": "nearest",
+      "alignment": "center",
+      "fit": "contain",
+      "opacity": 1.0,
+      "frames": [
+        {
+          "asset": "assets/176c19f069dc188c3fddb3619ac00fd5b342805fea8203e3e3a8f5d1bec914a6.png",
+          "hotspot": [
+            8,
+            6
+          ],
+          "duration_ms": 100
+        }
+      ]
+    },
+    "AppStarting": {
+      "size": 64,
+      "scale": null,
+      "interpolation": "nearest",
+      "alignment": "center",
+      "fit": "contain",
+      "opacity": 1.0,
+      "frames": [
+        {
+          "asset": "assets/3d3e187832c954113644b072d07576e5920fb82c8fc33db1570263fd278ee1f9.png",
+          "hotspot": [
+            8,
+            6
+          ],
+          "duration_ms": 400
+        },
+        {
+          "asset": "assets/fe05fca28706e8d78b3b004b6b03f2691d823c5469668e174b1a943e3b205d1c.png",
+          "hotspot": [
+            8,
+            6
+          ],
+          "duration_ms": 100
+        },
+        {
+          "asset": "assets/bca6a3ade585528b00064580129ba2fcc3e6be5791f56cf9ad68856b88d7ccee.png",
+          "hotspot": [
+            8,
+            6
+          ],
+          "duration_ms": 100
+        },
+        {
+          "asset": "assets/fe05fca28706e8d78b3b004b6b03f2691d823c5469668e174b1a943e3b205d1c.png",
+          "hotspot": [
+            8,
+            6
+          ],
+          "duration_ms": 200
+        }
+      ]
+    },
+    "Wait": {
+      "size": 64,
+      "scale": null,
+      "interpolation": "nearest",
+      "alignment": "center",
+      "fit": "contain",
+      "opacity": 1.0,
+      "frames": [
+        {
+          "asset": "assets/1133fc43584aa4bb3d64730bae8594f426bc1a3a60698203a15069b72f75348c.png",
+          "hotspot": [
+            32,
+            32
+          ],
+          "duration_ms": 400
+        },
+        {
+          "asset": "assets/e8d5f014fb3f0b0b0a0d3ceaed6a4812ab13011fa7f9754b39ff942abc4cbc43.png",
+          "hotspot": [
+            32,
+            32
+          ],
+          "duration_ms": 100
+        },
+        {
+          "asset": "assets/c88bc0d50604b6bedd9ec2e69d3694caf501f3ce75303c32ad2a1dfb5aac9d7d.png",
+          "hotspot": [
+            32,
+            32
+          ],
+          "duration_ms": 100
+        },
+        {
+          "asset": "assets/0f892b62e60daf80f902d76505a7de862e5fbd0810fda930775028f8b51d38cb.png",
+          "hotspot": [
+            32,
+            32
+          ],
+          "duration_ms": 200
+        }
+      ]
+    },
+    "Crosshair": {
+      "size": 64,
+      "scale": null,
+      "interpolation": "nearest",
+      "alignment": "center",
+      "fit": "contain",
+      "opacity": 1.0,
+      "frames": [
+        {
+          "asset": "assets/ae80d4ddf08496e452d234dfe062ee0c1fdad07fd36a8ea2e4d36a24358ede98.png",
+          "hotspot": [
+            32,
+            32
+          ],
+          "duration_ms": 100
+        }
+      ]
+    },
+    "IBeam": {
+      "size": 64,
+      "scale": null,
+      "interpolation": "nearest",
+      "alignment": "center",
+      "fit": "contain",
+      "opacity": 1.0,
+      "frames": [
+        {
+          "asset": "assets/9b78827e2fcee45b8ef86fb208074dad5cccbabff3916569cc9088c920b5c7e0.png",
+          "hotspot": [
+            32,
+            32
+          ],
+          "duration_ms": 100
+        }
+      ]
+    },
+    "NWPen": {
+      "size": 64,
+      "scale": null,
+      "interpolation": "nearest",
+      "alignment": "center",
+      "fit": "contain",
+      "opacity": 1.0,
+      "frames": [
+        {
+          "asset": "assets/4163a17844ef71b6aabf04d868a0c92c80e65ec0edfbc093809d32d37cbffc40.png",
+          "hotspot": [
+            14,
+            50
+          ],
+          "duration_ms": 100
+        }
+      ]
+    },
+    "No": {
+      "size": 64,
+      "scale": null,
+      "interpolation": "nearest",
+      "alignment": "center",
+      "fit": "contain",
+      "opacity": 1.0,
+      "frames": [
+        {
+          "asset": "assets/f4c989fc35be10fcebbd8a63fbf4324a74a684b42aeed4f67fa260354c5b6b07.png",
+          "hotspot": [
+            32,
+            32
+          ],
+          "duration_ms": 100
+        }
+      ]
+    },
+    "SizeNS": {
+      "size": 64,
+      "scale": null,
+      "interpolation": "nearest",
+      "alignment": "center",
+      "fit": "contain",
+      "opacity": 1.0,
+      "frames": [
+        {
+          "asset": "assets/ab334c1dd983197463107abf2bdd82dae0d1e5aafcce93d63d465ed8c33018c9.png",
+          "hotspot": [
+            32,
+            32
+          ],
+          "duration_ms": 100
+        }
+      ]
+    },
+    "SizeWE": {
+      "size": 64,
+      "scale": null,
+      "interpolation": "nearest",
+      "alignment": "center",
+      "fit": "contain",
+      "opacity": 1.0,
+      "frames": [
+        {
+          "asset": "assets/5a234181f89821a393b39cebf7070b0dfc978e4d9c204c7d2a6dce954d61feca.png",
+          "hotspot": [
+            32,
+            32
+          ],
+          "duration_ms": 100
+        }
+      ]
+    },
+    "SizeNWSE": {
+      "size": 64,
+      "scale": null,
+      "interpolation": "nearest",
+      "alignment": "center",
+      "fit": "contain",
+      "opacity": 1.0,
+      "frames": [
+        {
+          "asset": "assets/29c3ae24007e79541eb59dbd3b3d8bb6419432a851977a11c7e61888031cb3f7.png",
+          "hotspot": [
+            32,
+            32
+          ],
+          "duration_ms": 100
+        }
+      ]
+    },
+    "SizeNESW": {
+      "size": 64,
+      "scale": null,
+      "interpolation": "nearest",
+      "alignment": "center",
+      "fit": "contain",
+      "opacity": 1.0,
+      "frames": [
+        {
+          "asset": "assets/384ada7880b500e1231e17085ab6886e429e34c79fd7786cbc0b214948fdcf36.png",
+          "hotspot": [
+            32,
+            32
+          ],
+          "duration_ms": 100
+        }
+      ]
+    },
+    "SizeAll": {
+      "size": 64,
+      "scale": null,
+      "interpolation": "nearest",
+      "alignment": "center",
+      "fit": "contain",
+      "opacity": 1.0,
+      "frames": [
+        {
+          "asset": "assets/4093e96171ece531e09e771e00fdd5aab9912d7e981729e29fd18a0f0fd7fca6.png",
+          "hotspot": [
+            32,
+            32
+          ],
+          "duration_ms": 100
+        }
+      ]
+    },
+    "UpArrow": {
+      "size": 64,
+      "scale": null,
+      "interpolation": "nearest",
+      "alignment": "center",
+      "fit": "contain",
+      "opacity": 1.0,
+      "frames": [
+        {
+          "asset": "assets/a690fe8a72029bbec95a77611daa785f8c1de196f329d6f0ddb1357592fc27f7.png",
+          "hotspot": [
+            32,
+            6
+          ],
+          "duration_ms": 100
+        }
+      ]
+    },
+    "Hand": {
+      "size": 64,
+      "scale": null,
+      "interpolation": "nearest",
+      "alignment": "center",
+      "fit": "contain",
+      "opacity": 1.0,
+      "frames": [
+        {
+          "asset": "assets/a6b5fd85bb21b60716feb18037e5f889e7990ae11b3d531c9c7bca06bd8d39df.png",
+          "hotspot": [
+            22,
+            10
+          ],
+          "duration_ms": 100
+        }
+      ]
+    }
+  }
+}

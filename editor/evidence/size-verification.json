@@ -1,0 +1,50 @@
+[
+  {
+    "theme": "懒羊羊",
+    "size": 64,
+    "native_files": 15,
+    "preview_pixels": 64
+  },
+  {
+    "theme": "懒羊羊",
+    "size": 80,
+    "native_files": 15,
+    "preview_pixels": 80
+  },
+  {
+    "theme": "懒羊羊",
+    "size": 96,
+    "native_files": 15,
+    "preview_pixels": 96
+  },
+  {
+    "theme": "懒羊羊",
+    "size": 128,
+    "native_files": 15,
+    "preview_pixels": 128
+  },
+  {
+    "theme": "一二",
+    "size": 64,
+    "native_files": 15,
+    "preview_pixels": 64
+  },
+  {
+    "theme": "一二",
+    "size": 80,
+    "native_files": 15,
+    "preview_pixels": 80
+  },
+  {
+    "theme": "一二",
+    "size": 96,
+    "native_files": 15,
+    "preview_pixels": 96
+  },
+  {
+    "theme": "一二",
+    "size": 128,
+    "native_files": 15,
+    "preview_pixels": 128
+  }
+]

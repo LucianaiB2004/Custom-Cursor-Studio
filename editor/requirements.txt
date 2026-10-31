@@ -1,0 +1,4 @@
+PySide6-Essentials==6.8.3
+Pillow>=11,<13
+defusedxml>=0.7,<1
+pytest>=8,<10

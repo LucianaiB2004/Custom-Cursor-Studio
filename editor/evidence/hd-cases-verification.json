@@ -1,0 +1,111 @@
+{
+  "themes": [
+    {
+      "name": "懒羊羊",
+      "master_size": [
+        1139,
+        1381
+      ],
+      "source_frame_size": 256,
+      "roundtrip": true,
+      "variants": [
+        {
+          "size": 64,
+          "files": 15,
+          "native_load": true
+        },
+        {
+          "size": 96,
+          "files": 15,
+          "native_load": true
+        },
+        {
+          "size": 128,
+          "files": 15,
+          "native_load": true
+        }
+      ]
+    },
+    {
+      "name": "一二",
+      "master_size": [
+        1254,
+        1254
+      ],
+      "source_frame_size": 256,
+      "roundtrip": true,
+      "variants": [
+        {
+          "size": 64,
+          "files": 15,
+          "native_load": true
+        },
+        {
+          "size": 96,
+          "files": 15,
+          "native_load": true
+        },
+        {
+          "size": 128,
+          "files": 15,
+          "native_load": true
+        }
+      ]
+    },
+    {
+      "name": "吹泡泡Dva",
+      "master_size": [
+        1254,
+        1254
+      ],
+      "source_frame_size": 256,
+      "roundtrip": true,
+      "variants": [
+        {
+          "size": 64,
+          "files": 15,
+          "native_load": true
+        },
+        {
+          "size": 96,
+          "files": 15,
+          "native_load": true
+        },
+        {
+          "size": 128,
+          "files": 15,
+          "native_load": true
+        }
+      ]
+    },
+    {
+      "name": "月神天使",
+      "master_size": [
+        1254,
+        1254
+      ],
+      "source_frame_size": 256,
+      "roundtrip": true,
+      "variants": [
+        {
+          "size": 64,
+          "files": 15,
+          "native_load": true
+        },
+        {
+          "size": 96,
+          "files": 15,
+          "native_load": true
+        },
+        {
+          "size": 128,
+          "files": 15,
+          "native_load": true
+        }
+      ]
+    }
+  ],
+  "original_hashes_unchanged": 36,
+  "native_files": 180,
+  "system_switched": false
+}

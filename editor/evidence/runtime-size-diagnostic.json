@@ -1,0 +1,82 @@
+{
+  "os": [
+    "11",
+    "10.0.26200",
+    "SP0",
+    "Multiprocessor Free"
+  ],
+  "operations": "Read-only registry, LoadCursorW, LoadImageW, GetIconInfo, GetObjectW; no SetSystemCursor or SystemParametersInfo(SPI_SETCURSORS) calls.",
+  "CursorBaseSize": 128,
+  "system_metrics": [
+    32,
+    32
+  ],
+  "installed_arrow_name": "Arrow.ani",
+  "live_system_arrow": {
+    "width": 32,
+    "height": 32,
+    "hotspot": [
+      1,
+      1
+    ]
+  },
+  "owned_file_loads": {
+    "0": {
+      "width": 32,
+      "height": 32,
+      "hotspot": [
+        1,
+        1
+      ]
+    },
+    "64": {
+      "width": 64,
+      "height": 64,
+      "hotspot": [
+        2,
+        2
+      ]
+    },
+    "96": {
+      "width": 96,
+      "height": 96,
+      "hotspot": [
+        3,
+        3
+      ]
+    },
+    "128": {
+      "width": 128,
+      "height": 128,
+      "hotspot": [
+        4,
+        4
+      ]
+    }
+  },
+  "encoded_first_frame": {
+    "size": [
+      128,
+      128
+    ],
+    "hotspot": [
+      4,
+      4
+    ],
+    "frame_count": 4
+  },
+  "sources": [
+    "https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-loadimagew",
+    "https://learn.microsoft.com/en-us/windows/win32/api/winuser/nf-winuser-geticoninfo",
+    "https://github.com/microsoft/winget-dsc/blob/main/resources/Microsoft.Windows.Setting.Accessibility/Microsoft.Windows.Setting.Accessibility.psm1",
+    "https://bugzilla.mozilla.org/show_bug.cgi?id=1712669#c4",
+    "https://github.com/marco-kretz/win11-multi-dpi-cursor/blob/main/multi-dpi-cursor.wh.cpp"
+  ],
+  "undocumented_spi_get": {
+    "action": "0x2028",
+    "flags": 0,
+    "runtime_base_size": 32,
+    "write_action_0x2029_executed": false,
+    "compatibility": "Undocumented Windows behavior; not a public SDK guarantee."
+  }
+}
